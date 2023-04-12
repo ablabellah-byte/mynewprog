@@ -9,7 +9,7 @@
 <body>  
       <table border=2>    
             <tr>
-            <td> <strong>Récapitulatif de votre fiche d information personnelle </strong> </td>
+            <td> <strong>Récapitulatif !!!!! </strong> </td>
             </tr>
             <tr>
             <td>
